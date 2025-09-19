@@ -1,0 +1,10 @@
+Django==1.11.11
+django-registration==2.4.1
+django-widget-tweaks==1.4.1
+factory-boy==2.10.0
+Faker==0.8.12
+python-dateutil==2.7.2
+pytz==2018.3
+six==1.11.0
+text-unidecode==1.2
+confusable-homoglyphs==3.0.0
